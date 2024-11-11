@@ -15,7 +15,7 @@ export function Welcome() {
         </Text>
       </Title>
       <Text c="dimmed" ta="center" size="lg" maw={580} mx="auto" mt="xl">
-        Looking good!
+        Looking good!  -- { <Anchor href="https://mantine.dev">Mantine</Anchor> }
       </Text>
     </>
   );
